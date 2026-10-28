@@ -1,0 +1,40 @@
+{
+  "people": [
+    {
+      "name": "Aarav Sharma",
+      "age": 22,
+      "city": "Delhi",
+      "occupation": "Student",
+      "interests": [
+        "Python",
+        "machine learning",
+        "reading"
+      ],
+      "about": "Aarav is learning data science and building Python projects."
+    },
+    {
+      "name": "Meera Patel",
+      "age": 25,
+      "city": "Ahmedabad",
+      "occupation": "Data Analyst",
+      "interests": [
+        "SQL",
+        "data visualization",
+        "statistics"
+      ],
+      "about": "Meera analyzes datasets and creates dashboards for business teams."
+    },
+    {
+      "name": "Kabir Singh",
+      "age": 24,
+      "city": "Chandigarh",
+      "occupation": "Software Developer",
+      "interests": [
+        "APIs",
+        "Python",
+        "cloud computing"
+      ],
+      "about": "Kabir builds backend services and enjoys learning new technologies."
+    }
+  ]
+}

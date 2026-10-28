@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+myvenv/
+venv/
+
+# API keys and secrets
+.env
+.env.*
+
+# Allow an example environment file
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
